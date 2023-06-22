@@ -21,3 +21,7 @@ The system was tested on simulation. The following set of commands were given:
 Final value at A should be 5 (3+4-2 = 5) which can be seen in the simulation results
 
 ![Screenshot (10)](https://github.com/ZaighamKH/FPGA-SAP-Computer/assets/119772901/0ecd1dfe-bfd5-4e18-a5f9-d0f20c3dbdd5)
+
+# Future Goals
+
+Update SAP 1 to SAP 2 and eventually SAP 3 to further improve understanding of fpga design, hardware description language and computer architecture.
