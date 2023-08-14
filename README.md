@@ -23,8 +23,3 @@ The system was tested in vivado simulation. The following set of commands were g
 The final value at A should be 5 (3+4-2 = 5), which can be seen in the simulation results
 
 ![Screenshot (10)](https://github.com/ZaighamKH/FPGA-SAP-Computer/assets/119772901/1fd55d26-4c96-4534-b358-d8c615c80874)
-
-
-# Future Goals
-
-Update SAP 1 to SAP 2 and eventually SAP 3 to further improve understanding of FPGA design, hardware description language, and computer architecture.
